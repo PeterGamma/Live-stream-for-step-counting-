@@ -3,7 +3,7 @@ BeagleBone Blue, Bitalino, Android
 
 BeagleBone BLue step counting:
 
-https://www.mathworks.com/help/matlabmobile_android/ug/counting-steps-by-capturing-acceleration-data.html
+https://www.mathworks.com/help/supportpkg/beagleboneblue/ref/counting-steps-using-beagleboneblue-hardware-example.html
 
 Bitalino step counting:
 
